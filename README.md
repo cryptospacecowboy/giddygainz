@@ -7,7 +7,7 @@ The setup guide is coming soon. In the meantime you may follow the steps in the 
 const wallet = 'YOUR_WALLET_ADDRESS'
 ```
 
-Learn more about Giddy DeFi by visiting their [official site](https://giddy.co), and [join the waitlist](app.giddy.co/share/sc1enL7U) for the mobile app coming soon!
+Learn more about Giddy DeFi by visiting their [official site](https://giddy.co), and [join the waitlist](https://app.giddy.co/share/sc1enL7U) for the mobile app coming soon!
 
 ![GiddyGainz](https://repository-images.githubusercontent.com/486805191/db3839f3-238f-4609-991e-9b32c12cee60 "GiddyGainz")
 
